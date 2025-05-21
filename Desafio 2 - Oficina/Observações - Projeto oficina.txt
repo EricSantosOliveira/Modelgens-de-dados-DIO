@@ -1,0 +1,19 @@
+# Modelagem de Dados
+
+Este diretório contém arquivos relacionados à modelagem de dados sobre os serviços de uma oficina.
+
+## Conteúdo
+
+- Este README fornece contexto adicional para o conteúdo do PDF.
+
+## Observações
+
+- Este material foi desenvolvido como parte dos estudos em análise de dados.
+- Ferramentas utilizadas: MySQL.
+- Ao fazer a análise das regras foi-se oservado a necessidade de se criar 
+uma nova tabela para as peças consumidas para detalhar melhor alguns atributos.
+Foi-se adicionado também relacionamentos que se linkam com a tabela de 
+"Ordem de serviço".
+
+
+ 
